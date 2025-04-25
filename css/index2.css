@@ -986,7 +986,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"] {
 
 @media screen and (min-width:1199.98px) {
     .hero {
-        padding: 320px 0 220px
+        padding: 320px 0 0
     }
 
     .hero_media {
